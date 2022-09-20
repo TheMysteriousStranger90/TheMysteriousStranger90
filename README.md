@@ -8,7 +8,10 @@
 
 [<img align="left" alt="Telegram" width="28px" src="icons/telegram_logo.png" />][telegram]
 [<img align="left" alt="Vk" width="28px" src="icons/vk_logo.png" />][vk]
+
 <br />
+
+---
 
 ### Programming languages
 
