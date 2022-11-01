@@ -60,7 +60,7 @@
 <details>
  <summary> My Stepik Profile</summary>
 
-[<img align="left" alt="Stepikk" width="28px" src="icons/stepik_logo.png" />][stepik]
+[<img align="left" alt="Stepikk" width="36px" src="icons/stepik_logo.png" />][stepik]
 
 </details>
 
