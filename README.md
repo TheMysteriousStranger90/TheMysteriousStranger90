@@ -55,7 +55,14 @@
 </a>
 </details>
 
+### Stepik
 
+<details>
+ <summary> My Stepik Profile</summary>
+
+[<img align="left" alt="Stepikk" width="28px" src="icons/stepik_logo.png" />][stepik]
+
+</details>
 
 
 
@@ -68,3 +75,5 @@ You can click the Preview link to take a look at your changes.
 [telegram]: https://t.me/TheMysteriousStranger90
 
 [vk]: https://vk.com/bohdan.harabadzhyu
+
+[stepik]: https://stepik.org/users/208458794
