@@ -59,9 +59,9 @@
 
 <details>
  <summary> My Stepik Profile</summary>
-
-[<img align="left" alt="Stepikk" width="36px" src="icons/stepik_logo.png" />][stepik]
-
+<p>
+    <a href="https://stepik.org/users/208458794"><img alt="Stepik" height="180em" src="icons/stepik_logo.png"></a>
+</p>
 </details>
 
 
