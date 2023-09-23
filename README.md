@@ -3,7 +3,6 @@
 ### I'm a C# (ASP.NET, Entity Framework) Developer
 
 - 👀 I’m interested in .NET Technologies
-- 🌱 I’m currently working on private projects and I’m looking for a developer job...
 - 📫 How to reach me ...
 
 [<img align="left" alt="Telegram" width="28px" src="icons/telegram_logo.png" />][telegram]
