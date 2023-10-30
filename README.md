@@ -5,8 +5,9 @@
 - 👀 I’m interested in .NET Technologies
 - 📫 How to reach me ...
 
-[<img align="left" alt="Telegram" width="28px" src="icons/telegram_logo.png" />][telegram]
-[<img align="left" alt="Vk" width="28px" src="icons/vk_logo.png" />][vk]
+[<img align="left" alt="Discord" width="28px" src="icons/discord-color.svg" />][discord]
+[<img align="left" alt="Telegram" width="28px" src="icons/telegram-color.svg" />][telegram]
+[<img align="left" alt="Vk" width="28px" src="icons/vk-color.svg" />][vk]
 
 <br />
 
@@ -24,6 +25,7 @@
 
 <p>
     <a href="#"><img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=flat&logo=.net&logoColor=white"></a>
+    <a href="#"><img alt="ASP.NET Core" src=https://custom-icon-badges.herokuapp.com/badge/Entity%20Framework-68217A.svg?style=flat&logo=ef-core&logoColor=white%22></a>
 </p>
 
 ### Database
@@ -70,6 +72,7 @@ TheMysteriousStranger90/TheMysteriousStranger90 is a ✨ special ✨ repository 
 You can click the Preview link to take a look at your changes.
 --->
 
+[discord]: https://discordapp.com/users/634427154477744129
 
 [telegram]: https://t.me/TheMysteriousStranger90
 
