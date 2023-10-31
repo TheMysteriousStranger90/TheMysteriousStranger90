@@ -6,7 +6,6 @@
 - 📫 How to reach me ...
 
 [<img align="left" alt="Discord" width="28px" src="icons/discord-color.svg" />][discord]
-[<img align="left" alt="Skype" width="28px" src="icons/skype-color.svg" />][skype]
 [<img align="left" alt="Reddit" width="28px" src="icons/reddit-color.svg" />][reddit]
 [<img align="left" alt="Telegram" width="28px" src="icons/telegram-color.svg" />][telegram]
 [<img align="left" alt="Vk" width="28px" src="icons/vk-color.svg" />][vk]
@@ -76,7 +75,7 @@ You can click the Preview link to take a look at your changes.
 --->
 [discord]: https://discordapp.com/users/634427154477744129
 
-[skype]: callto:live:.cid.275fc9ebeff2ddeb?chat
+[skype]: skype:live:.cid.275fc9ebeff2ddeb?chat
 
 [reddit]: https://www.reddit.com/user/The_Myst__Stranger90
 
