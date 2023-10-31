@@ -76,7 +76,7 @@ You can click the Preview link to take a look at your changes.
 --->
 [discord]: https://discordapp.com/users/634427154477744129
 
-[skype]: skype:live:.cid.275fc9ebeff2ddeb?chat
+[skype]: callto:live:.cid.275fc9ebeff2ddeb?chat
 
 [reddit]: https://www.reddit.com/user/The_Myst__Stranger90
 
