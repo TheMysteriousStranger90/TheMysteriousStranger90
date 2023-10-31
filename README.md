@@ -6,8 +6,11 @@
 - 📫 How to reach me ...
 
 [<img align="left" alt="Discord" width="28px" src="icons/discord-color.svg" />][discord]
+[<img align="left" alt="Skype" width="28px" src="icons/skype-color.svg" />][skype]
+[<img align="left" alt="Reddit" width="28px" src="icons/reddit-color.svg" />][reddit]
 [<img align="left" alt="Telegram" width="28px" src="icons/telegram-color.svg" />][telegram]
 [<img align="left" alt="Vk" width="28px" src="icons/vk-color.svg" />][vk]
+[<img align="left" alt="Habr" width="28px" src="icons/habr-color.svg" />][habr]
 
 <br />
 
@@ -71,11 +74,16 @@
 TheMysteriousStranger90/TheMysteriousStranger90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
 [discord]: https://discordapp.com/users/634427154477744129
+
+[skype]: skype:live:.cid.275fc9ebeff2ddeb?chat
+
+[reddit]: https://www.reddit.com/user/The_Myst__Stranger90
 
 [telegram]: https://t.me/TheMysteriousStranger90
 
 [vk]: https://vk.com/bohdan.harabadzhyu
+
+[habr]: https://habr.com/ru/users/TheMysteriousStranger90
 
 [stepik]: https://stepik.org/users/208458794
