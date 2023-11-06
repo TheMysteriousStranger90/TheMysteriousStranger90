@@ -18,16 +18,17 @@
 ### Programming languages
 
 <p>
-    <a href="#"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?style=flat&logo=cs2&logoColor=white"></a>
+    <a href="#"><img alt="C#" src="https://img.shields.io/badge/-C%23-6e2091?style=flat&logo=c-sharp&logoColor=white"></a>
     <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat&logo=typescript&logoColor=white"></a>
-    <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?style=flat&logo=database&logoColor=white"></a>
+    <a href="#"><img alt="SQL" src="https://img.shields.io/badge/-SQL-003060?style=flat&logoColor=white"></a>
 </p>
 
 ### Frameworks
 
 <p>
     <a href="#"><img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=flat&logo=.net&logoColor=white"></a>
-    <a href="#"><img alt="ASP.NET Core" src=https://custom-icon-badges.herokuapp.com/badge/Entity%20Framework-68217A.svg?style=flat&logo=ef-core&logoColor=white%22></a>
+    <a href="#"><img alt="Entity Framework" src="https://img.shields.io/badge/-Entity%20Framework-6e2091?style=flat&logoColor=white"></a>
+    <a href="#"><img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white"></a>
 </p>
 
 ### Database
@@ -74,8 +75,6 @@ TheMysteriousStranger90/TheMysteriousStranger90 is a ✨ special ✨ repository 
 You can click the Preview link to take a look at your changes.
 --->
 [discord]: https://discordapp.com/users/634427154477744129
-
-[skype]: skype:live:.cid.275fc9ebeff2ddeb?chat
 
 [reddit]: https://www.reddit.com/user/The_Myst__Stranger90
 
