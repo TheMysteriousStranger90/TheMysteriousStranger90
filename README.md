@@ -1,6 +1,6 @@
 ### Hi there, My name is Bohdan, Welcome to my GitHub Profile 👋
 
-### As a C# Developer, my specialization lies in backend web application development, primarily utilizing .NET technologies such as C#, ASP.NET, and Entity Framework. With full-stack development capabilities, I frequently employ Angular for front-end tasks. I also have some experience in developing desktop applications for Windows, with projects being [VoiceRecorder](https://sourceforge.net/projects/voice-recorder-stranger90/) and [LogAnalyzerForWindows](https://sourceforge.net/projects/loganalyzerforwindows/), both of which were built using Avalonia UI. I am the author of the [FileConversionLibrary](https://www.nuget.org/packages/FileConversionLibrary) NuGet package.
+### As a C# Developer, my specialization lies in backend web application development, primarily utilizing .NET technologies such as C#, ASP.NET and Entity Framework. With full-stack development capabilities, I frequently employ Angular for front-end tasks. I also have some experience in developing desktop applications for Windows, with projects being [VoiceRecorder](https://sourceforge.net/projects/voice-recorder-stranger90/) and [LogAnalyzerForWindows](https://sourceforge.net/projects/loganalyzerforwindows/), both of which were built using Avalonia UI. I am the author of the [FileConversionLibrary](https://www.nuget.org/packages/FileConversionLibrary) NuGet package.
 
 - 👀 I’m interested in .NET Technologies
 - 📫 How to reach me ...
