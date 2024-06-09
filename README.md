@@ -1,12 +1,13 @@
 ### Hi there, My name is Bohdan, Welcome to my GitHub Profile 👋
 
-### I'm a C# (ASP.NET, Entity Framework) Developer
+### As a C# Developer, my specialization lies in backend web application development, primarily utilizing .NET technologies such as C#, ASP.NET, and Entity Framework. With full-stack development capabilities, I frequently employ Angular for front-end tasks. I also have some experience in developing desktop applications for Windows, with projects being [VoiceRecorder](https://sourceforge.net/projects/voice-recorder-stranger90/) and [LogAnalyzerForWindows](https://sourceforge.net/projects/loganalyzerforwindows/), both of which were built using Avalonia UI. I am the author of the [FileConversionLibrary](https://www.nuget.org/packages/FileConversionLibrary) NuGet package.
 
 - 👀 I’m interested in .NET Technologies
 - 📫 How to reach me ...
 
 [<img align="left" alt="Discord" width="28px" src="icons/discord-color.svg" />][discord]
 [<img align="left" alt="Reddit" width="28px" src="icons/reddit-color.svg" />][reddit]
+[<img align="left" alt="Dev.to" width="28px" src="icons/devdotto.svg" />][dev.to]
 [<img align="left" alt="Telegram" width="28px" src="icons/telegram-color.svg" />][telegram]
 [<img align="left" alt="Vk" width="28px" src="icons/vk-color.svg" />][vk]
 [<img align="left" alt="Habr" width="28px" src="icons/habr-color.svg" />][habr]
@@ -18,7 +19,7 @@
 ### Programming languages
 
 <p>
-    <a href="#"><img alt="C#" src="https://img.shields.io/badge/-C%23-6e2091?style=flat&logo=c-sharp&logoColor=white"></a>
+    <a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white"></a>
     <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat&logo=typescript&logoColor=white"></a>
     <a href="#"><img alt="SQL" src="https://img.shields.io/badge/-SQL-003060?style=flat&logoColor=white"></a>
 </p>
@@ -77,6 +78,8 @@ You can click the Preview link to take a look at your changes.
 [discord]: https://discordapp.com/users/634427154477744129
 
 [reddit]: https://www.reddit.com/user/The_Myst__Stranger90
+
+[dev.to]: https://dev.to/themysteriousstranger90
 
 [telegram]: https://t.me/TheMysteriousStranger90
 
