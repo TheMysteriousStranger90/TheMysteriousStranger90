@@ -1,7 +1,6 @@
 ### Hi there, My name is Bohdan, Welcome to my GitHub Profile 👋
 
-### As a C# Developer, my specialization lies in backend web application development, primarily utilizing .NET technologies such as C#, ASP.NET and Entity Framework. With full-stack development capabilities, I frequently employ Angular for front-end tasks. I also have some experience in developing desktop applications for Windows, with projects being [VoiceRecorder](https://sourceforge.net/projects/voice-recorder-stranger90/) and [LogAnalyzerForWindows](https://sourceforge.net/projects/loganalyzerforwindows/), both of which were built using Avalonia UI. I am the author of the [FileConversionLibrary](https://www.nuget.org/packages/FileConversionLibrary) NuGet package.
-
+### As a C# developer, I focus on backend web application development using .NET technologies like C#, ASP.NET and Entity Framework. I also have full-stack development skill, often employing Angular for front-end tasks (example of my work: [FashionClothesAndTrends](https://github.com/TheMysteriousStranger90/FashionClothesAndTrends)). Additionally, I have worked on developing desktop applications for Windows, such as [VoiceRecorder](https://sourceforge.net/projects/voice-recorder-stranger90/) and [LogAnalyzerForWindows](https://sourceforge.net/projects/loganalyzerforwindows/), both created with Avalonia UI. Furthermore, I authored the NuGet package [FileConversionLibrary](https://www.nuget.org/packages/FileConversionLibrary).
 - 👀 I’m interested in .NET Technologies
 - 📫 How to reach me ...
 
@@ -19,7 +18,7 @@
 ### Programming languages
 
 <p>
-    <a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white"></a>
+    <a href="#"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white"></a>
     <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat&logo=typescript&logoColor=white"></a>
     <a href="#"><img alt="SQL" src="https://img.shields.io/badge/-SQL-003060?style=flat&logoColor=white"></a>
 </p>
@@ -41,9 +40,9 @@
 ### Tools
 
 <p>
-    <a href="#" target="_blank"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white"/></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="Rider" src="https://img.shields.io/badge/Rider-000000.svg?style=flat&logo=Rider&logoColor=white&color=black&labelColor=crimson"></a>
+    <a href="#" target="_blank"><img alt="Visual Studio" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white"/></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white"></a>
+    <a href="#"><img alt="Rider" src="https://img.shields.io/badge/Rider-000?logo=rider&logoColor=fff)"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?style=flat&logo=git&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white"></a>
