@@ -7,6 +7,7 @@
 [<img align="left" alt="Discord" width="28px" src="icons/discord-color.svg" />][discord]
 [<img align="left" alt="Reddit" width="28px" src="icons/reddit-color.svg" />][reddit]
 [<img align="left" alt="Dev.to" width="28px" src="icons/devdotto.svg" />][dev.to]
+[<img align="left" alt="Medium" width="28px" src="icons/medium.svg" />][medium]
 [<img align="left" alt="Telegram" width="28px" src="icons/telegram-color.svg" />][telegram]
 [<img align="left" alt="Vk" width="28px" src="icons/vk-color.svg" />][vk]
 [<img align="left" alt="Habr" width="28px" src="icons/habr-color.svg" />][habr]
@@ -20,7 +21,7 @@
 <p>
     <a href="#"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white"></a>
     <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat&logo=typescript&logoColor=white"></a>
-    <a href="#"><img alt="SQL" src="https://img.shields.io/badge/-SQL-003060?style=flat&logoColor=white"></a>
+    <a href="#"><img alt="SQL" src=https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?style=flat&logo=database&logoColor=white"></a>
 </p>
 
 ### Frameworks
@@ -79,6 +80,8 @@ You can click the Preview link to take a look at your changes.
 [reddit]: https://www.reddit.com/user/The_Myst__Stranger90
 
 [dev.to]: https://dev.to/themysteriousstranger90
+
+[medium]: https://medium.com/@bohdan.harabadzhyu
 
 [telegram]: https://t.me/TheMysteriousStranger90
 
