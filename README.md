@@ -52,12 +52,10 @@
 ### GitHub Stats
 
 <details>
- <summary> Recent GitHub Stats</summary>
-<a href="https://github.com/TheMysteriousStranger90">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheMysteriousStranger90&show_icons=true&theme=dark&count_private=true" alt="TheMysteriousStranger90 GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMysteriousStranger90&theme=dark&layout=compact" 
-    alt="TheMysteriousStranger90 GitHub Top Languages" />
-</a>
+  <summary> Recent GitHub Stats</summary>
+  <a href="https://github.com/TheMysteriousStranger90">
+    <img height="200em" src="https://gh-readme-profile.vercel.app/api?username=TheMysteriousStranger90&theme=dark&border_radius=5&hide_stroke=true&hide_border=true&bg_color=222224&title_color=68217a&text_color=f7fafc&icon_color=68217a&border_color=68217a&stroke_color=f7fafc&username_color=68217a&photo_quality=100" alt="TheMysteriousStranger90 GitHub Readme Card" />
+  </a>
 </details>
 
 ### Stepik
