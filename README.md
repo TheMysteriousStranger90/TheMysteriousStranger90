@@ -1,8 +1,8 @@
-### Hi there, My name is Bohdan, Welcome to my GitHub Profile 👋
+### Hi there! My name is **Bohdan Harabadzhyu** (also known as **Bogdan Garabagiu**). Welcome to my GitHub Profile.
 
-### As a C# developer, I focus on backend web application development using .NET technologies like C#, ASP.NET and Entity Framework. I also have full-stack development experience, often employing Angular or Razor Pages for front-end tasks (examples of my work: [MusicEmbersFire](https://youtu.be/8eKxZsZwIU8), [FashionClothesAndTrends](https://github.com/TheMysteriousStranger90/FashionClothesAndTrends), [TheatreProjectMicroservices](https://github.com/TheMysteriousStranger90/TheatreProjectMicroservices) or [ArtGallery](https://github.com/TheMysteriousStranger90/ArtGallery)). Additionally, I have worked on developing desktop applications for Windows, such as [AzioWhisper FTP](https://apps.microsoft.com/detail/9N73GM6JPBXZ), [AzioVoice Recorder](https://apps.microsoft.com/detail/9PP795T0KSFP) and [AzioSpeech Recognition and Translation](https://apps.microsoft.com/detail/9PFV5DG73198), all created with Avalonia UI.
-- 👀 I’m interested in .NET Technologies
-- 📫 How to reach me ...
+### As a C# developer, I focus on backend web application development using .NET technologies like C#, ASP.NET and Entity Framework. I also have full-stack development experience with Angular and Blazor, with some of my personal projects publicly available as examples of my work: [MusicEmbersFire](https://youtu.be/8eKxZsZwIU8), [FashionClothesAndTrends](https://github.com/TheMysteriousStranger90/FashionClothesAndTrends) or [ArtGallery](https://github.com/TheMysteriousStranger90/ArtGallery). Additionally, I have worked on developing desktop applications for Windows, such as [AzioWhisper FTP](https://apps.microsoft.com/detail/9N73GM6JPBXZ), [AzioVoice Recorder](https://apps.microsoft.com/detail/9PP795T0KSFP) and [AzioSpeech Recognition and Translation](https://apps.microsoft.com/detail/9PFV5DG73198), all created with Avalonia UI.
+- I’m interested in .NET Technologies
+- How to reach me ...
 
 [<img align="left" alt="Discord" width="28px" src="icons/discord-color.svg" />][discord]
 [<img align="left" alt="Reddit" width="28px" src="icons/reddit-color.svg" />][reddit]
