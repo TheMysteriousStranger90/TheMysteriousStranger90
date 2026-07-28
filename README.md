@@ -4,15 +4,7 @@
 - I'm interested in .NET Technologies
 - How to reach me ...
 
-<p align="left">
-  <a href="https://discordapp.com/users/634427154477744129" target="_blank" rel="noreferrer"><img alt="Discord" width="28" src="icons/discord-color.svg" /></a>&nbsp;&nbsp;
-  <a href="https://www.reddit.com/user/The_Myst__Stranger90" target="_blank" rel="noreferrer"><img alt="Reddit" width="28" src="icons/reddit-color.svg" /></a>&nbsp;&nbsp;
-  <a href="https://dev.to/themysteriousstranger90" target="_blank" rel="noreferrer"><img alt="Dev.to" width="28" src="icons/devdotto.svg" /></a>&nbsp;&nbsp;
-  <a href="https://medium.com/@bohdan.harabadzhyu" target="_blank" rel="noreferrer"><img alt="Medium" width="28" src="icons/medium.svg" /></a>&nbsp;&nbsp;
-  <a href="https://t.me/TheMysteriousStranger90" target="_blank" rel="noreferrer"><img alt="Telegram" width="28" src="icons/telegram-color.svg" /></a>&nbsp;&nbsp;
-  <a href="https://vk.com/bohdan.harabadzhyu" target="_blank" rel="noreferrer"><img alt="Vk" width="28" src="icons/vk-color.svg" /></a>&nbsp;&nbsp;
-  <a href="https://habr.com/ru/users/TheMysteriousStranger90" target="_blank" rel="noreferrer"><img alt="Habr" width="28" src="icons/habr-color.svg" /></a>
-</p>
+[<img alt="Discord" width="28" src="icons/discord-color.svg" />](https://discordapp.com/users/634427154477744129) [<img alt="Reddit" width="28" src="icons/reddit-color.svg" />](https://www.reddit.com/user/The_Myst__Stranger90) [<img alt="Dev.to" width="28" src="icons/devdotto.svg" />](https://dev.to/themysteriousstranger90) [<img alt="Medium" width="28" src="icons/medium.svg" />](https://medium.com/@bohdan.harabadzhyu) [<img alt="Telegram" width="28" src="icons/telegram-color.svg" />](https://t.me/TheMysteriousStranger90) [<img alt="Vk" width="28" src="icons/vk-color.svg" />](https://vk.com/bohdan.harabadzhyu) [<img alt="Habr" width="28" src="icons/habr-color.svg" />](https://habr.com/ru/users/TheMysteriousStranger90)
 
 ---
 
@@ -49,3 +41,10 @@
     <a href="https://stepik.org/users/208458794"><img alt="Stepik" height="180em" src="icons/stepik_logo.png"></a>
 </p>
 </details>
+
+
+
+<!---
+TheMysteriousStranger90/TheMysteriousStranger90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
